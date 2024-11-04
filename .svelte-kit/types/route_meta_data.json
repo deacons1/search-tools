@@ -1,0 +1,27 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/about": [
+		"src/routes/about/+page.js"
+	],
+	"/api/answer": [
+		"src/routes/api/answer/+server.ts"
+	],
+	"/api/chat": [
+		"src/routes/api/chat/+server.ts"
+	],
+	"/api/queries": [
+		"src/routes/api/queries/+server.ts"
+	],
+	"/api/scrape": [
+		"src/routes/api/scrape/+server.ts"
+	],
+	"/api/search": [
+		"src/routes/api/search/+server.ts"
+	],
+	"/api/title": [
+		"src/routes/api/title/+server.ts"
+	],
+	"/settings": []
+}
