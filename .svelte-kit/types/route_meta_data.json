@@ -2,9 +2,6 @@
 	"/": [
 		"src/routes/+page.js"
 	],
-	"/about": [
-		"src/routes/about/+page.js"
-	],
 	"/api/answer": [
 		"src/routes/api/answer/+server.ts"
 	],
@@ -22,6 +19,9 @@
 	],
 	"/api/title": [
 		"src/routes/api/title/+server.ts"
+	],
+	"/search": [
+		"src/routes/search/+page.js"
 	],
 	"/settings": []
 }
